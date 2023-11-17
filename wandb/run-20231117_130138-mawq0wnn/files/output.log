@@ -1,0 +1,395 @@
+
+Start epoch #1, learning rate for this epoch: [0.0004]
+/opt/conda/lib/python3.10/site-packages/torchvision/transforms/functional.py:1603: UserWarning: The default value of the antialias parameter of all the resizing transforms (Resize(), RandomResizedCrop(), etc.) will change from None to True in v0.17, in order to be consistent across the PIL and Tensor backends. To suppress this warning, directly pass antialias=True (recommended, future default), antialias=None (current default, which means False for Tensors and True for PIL), or antialias=False (only works on Tensors - PIL will still use antialiasing). This also applies if you are using the inference transforms from the models weights: update the call to weights.transforms(antialias=True).
+  warnings.warn(
+Train Epoch: 1 [200/800 (25.0%)]	Loss: 0.2062
+Train Epoch: 1 [400/800 (50.0%)]	Loss: 0.2663
+Train Epoch: 1 [600/800 (75.0%)]	Loss: 0.1989
+Train Epoch: 1 [800/800 (100.0%)]	Loss: 0.0686
+Done epoch #1, time for this epoch: 346.560320854187s
+Start epoch #2, learning rate for this epoch: [0.0004]
+Train Epoch: 2 [200/800 (25.0%)]	Loss: 0.0791
+Train Epoch: 2 [400/800 (50.0%)]	Loss: 0.0618
+Train Epoch: 2 [600/800 (75.0%)]	Loss: 0.1002
+Train Epoch: 2 [800/800 (100.0%)]	Loss: 0.0705
+Done epoch #2, time for this epoch: 326.06364846229553s
+Start epoch #3, learning rate for this epoch: [0.0004]
+Train Epoch: 3 [200/800 (25.0%)]	Loss: 0.2955
+Train Epoch: 3 [400/800 (50.0%)]	Loss: 0.0304
+Train Epoch: 3 [600/800 (75.0%)]	Loss: 0.1114
+Train Epoch: 3 [800/800 (100.0%)]	Loss: 0.0280
+Done epoch #3, time for this epoch: 325.218656539917s
+Start epoch #4, learning rate for this epoch: [0.0004]
+Train Epoch: 4 [200/800 (25.0%)]	Loss: 0.1175
+Train Epoch: 4 [400/800 (50.0%)]	Loss: 0.0830
+Train Epoch: 4 [600/800 (75.0%)]	Loss: 0.0476
+Train Epoch: 4 [800/800 (100.0%)]	Loss: 0.0686
+Done epoch #4, time for this epoch: 325.67553520202637s
+Start epoch #5, learning rate for this epoch: [0.00024]
+Train Epoch: 5 [200/800 (25.0%)]	Loss: 0.0314
+Train Epoch: 5 [400/800 (50.0%)]	Loss: 0.0853
+Train Epoch: 5 [600/800 (75.0%)]	Loss: 0.0313
+Train Epoch: 5 [800/800 (100.0%)]	Loss: 0.0497
+Done epoch #5, time for this epoch: 324.8411567211151s
+Start epoch #6, learning rate for this epoch: [0.00024]
+Train Epoch: 6 [200/800 (25.0%)]	Loss: 0.1223
+Train Epoch: 6 [400/800 (50.0%)]	Loss: 0.0260
+Train Epoch: 6 [600/800 (75.0%)]	Loss: 0.0529
+Train Epoch: 6 [800/800 (100.0%)]	Loss: 0.0592
+Done epoch #6, time for this epoch: 325.97336173057556s
+Start epoch #7, learning rate for this epoch: [0.00024]
+Train Epoch: 7 [200/800 (25.0%)]	Loss: 0.0473
+Train Epoch: 7 [400/800 (50.0%)]	Loss: 0.0197
+Train Epoch: 7 [600/800 (75.0%)]	Loss: 0.0917
+Train Epoch: 7 [800/800 (100.0%)]	Loss: 0.0355
+Done epoch #7, time for this epoch: 327.4094099998474s
+Start epoch #8, learning rate for this epoch: [0.00024]
+Train Epoch: 8 [200/800 (25.0%)]	Loss: 0.0342
+Train Epoch: 8 [400/800 (50.0%)]	Loss: 0.0426
+Train Epoch: 8 [600/800 (75.0%)]	Loss: 0.0986
+Train Epoch: 8 [800/800 (100.0%)]	Loss: 0.0273
+Done epoch #8, time for this epoch: 327.09599709510803s
+Start epoch #9, learning rate for this epoch: [0.000144]
+Train Epoch: 9 [200/800 (25.0%)]	Loss: 0.0363
+Train Epoch: 9 [400/800 (50.0%)]	Loss: 0.0731
+Train Epoch: 9 [600/800 (75.0%)]	Loss: 0.0367
+Train Epoch: 9 [800/800 (100.0%)]	Loss: 0.0265
+Done epoch #9, time for this epoch: 326.60524249076843s
+Start epoch #10, learning rate for this epoch: [0.000144]
+Train Epoch: 10 [200/800 (25.0%)]	Loss: 0.0216
+Train Epoch: 10 [400/800 (50.0%)]	Loss: 0.0258
+Train Epoch: 10 [600/800 (75.0%)]	Loss: 0.0674
+Train Epoch: 10 [800/800 (100.0%)]	Loss: 0.0265
+Done epoch #10, time for this epoch: 326.06326818466187s
+Start epoch #11, learning rate for this epoch: [0.000144]
+Train Epoch: 11 [200/800 (25.0%)]	Loss: 0.0308
+Train Epoch: 11 [400/800 (50.0%)]	Loss: 0.0248
+Train Epoch: 11 [600/800 (75.0%)]	Loss: 0.1060
+Train Epoch: 11 [800/800 (100.0%)]	Loss: 0.0144
+Done epoch #11, time for this epoch: 326.03581976890564s
+Start epoch #12, learning rate for this epoch: [0.000144]
+Train Epoch: 12 [200/800 (25.0%)]	Loss: 0.0845
+Train Epoch: 12 [400/800 (50.0%)]	Loss: 0.0268
+Train Epoch: 12 [600/800 (75.0%)]	Loss: 0.0203
+Train Epoch: 12 [800/800 (100.0%)]	Loss: 0.0199
+Done epoch #12, time for this epoch: 324.6089949607849s
+Start epoch #13, learning rate for this epoch: [8.64e-05]
+Train Epoch: 13 [200/800 (25.0%)]	Loss: 0.0206
+Train Epoch: 13 [400/800 (50.0%)]	Loss: 0.1477
+Train Epoch: 13 [600/800 (75.0%)]	Loss: 0.0193
+Train Epoch: 13 [800/800 (100.0%)]	Loss: 0.0120
+Done epoch #13, time for this epoch: 324.51932191848755s
+Start epoch #14, learning rate for this epoch: [8.64e-05]
+Train Epoch: 14 [200/800 (25.0%)]	Loss: 0.0090
+Train Epoch: 14 [400/800 (50.0%)]	Loss: 0.0164
+Train Epoch: 14 [600/800 (75.0%)]	Loss: 0.0189
+Train Epoch: 14 [800/800 (100.0%)]	Loss: 0.0552
+Done epoch #14, time for this epoch: 325.31372237205505s
+Start epoch #15, learning rate for this epoch: [8.64e-05]
+Train Epoch: 15 [200/800 (25.0%)]	Loss: 0.0165
+Train Epoch: 15 [400/800 (50.0%)]	Loss: 0.0260
+Train Epoch: 15 [600/800 (75.0%)]	Loss: 0.0141
+Train Epoch: 15 [800/800 (100.0%)]	Loss: 0.0317
+Done epoch #15, time for this epoch: 326.9248859882355s
+Start epoch #16, learning rate for this epoch: [8.64e-05]
+Train Epoch: 16 [200/800 (25.0%)]	Loss: 0.0267
+Train Epoch: 16 [400/800 (50.0%)]	Loss: 0.0245
+Train Epoch: 16 [600/800 (75.0%)]	Loss: 0.0290
+Train Epoch: 16 [800/800 (100.0%)]	Loss: 0.0324
+Done epoch #16, time for this epoch: 325.3416483402252s
+Start epoch #17, learning rate for this epoch: [5.184e-05]
+Train Epoch: 17 [200/800 (25.0%)]	Loss: 0.0205
+Train Epoch: 17 [400/800 (50.0%)]	Loss: 0.0143
+Train Epoch: 17 [600/800 (75.0%)]	Loss: 0.0110
+Train Epoch: 17 [800/800 (100.0%)]	Loss: 0.0150
+Done epoch #17, time for this epoch: 325.85648488998413s
+Start epoch #18, learning rate for this epoch: [5.184e-05]
+Train Epoch: 18 [200/800 (25.0%)]	Loss: 0.0105
+Train Epoch: 18 [400/800 (50.0%)]	Loss: 0.0329
+Train Epoch: 18 [600/800 (75.0%)]	Loss: 0.0101
+Train Epoch: 18 [800/800 (100.0%)]	Loss: 0.0220
+Done epoch #18, time for this epoch: 325.3016023635864s
+Start epoch #19, learning rate for this epoch: [5.184e-05]
+Train Epoch: 19 [200/800 (25.0%)]	Loss: 0.0626
+Train Epoch: 19 [400/800 (50.0%)]	Loss: 0.0260
+Train Epoch: 19 [600/800 (75.0%)]	Loss: 0.0089
+Train Epoch: 19 [800/800 (100.0%)]	Loss: 0.0211
+Done epoch #19, time for this epoch: 324.82412600517273s
+Start epoch #20, learning rate for this epoch: [5.184e-05]
+Train Epoch: 20 [200/800 (25.0%)]	Loss: 0.0306
+Train Epoch: 20 [400/800 (50.0%)]	Loss: 0.0111
+Train Epoch: 20 [600/800 (75.0%)]	Loss: 0.0118
+Train Epoch: 20 [800/800 (100.0%)]	Loss: 0.0196
+Done epoch #20, time for this epoch: 325.1549286842346s
+Start epoch #21, learning rate for this epoch: [3.1104e-05]
+Train Epoch: 21 [200/800 (25.0%)]	Loss: 0.0123
+Train Epoch: 21 [400/800 (50.0%)]	Loss: 0.0090
+Train Epoch: 21 [600/800 (75.0%)]	Loss: 0.0267
+Train Epoch: 21 [800/800 (100.0%)]	Loss: 0.0196
+Done epoch #21, time for this epoch: 325.84965085983276s
+Start epoch #22, learning rate for this epoch: [3.1104e-05]
+Train Epoch: 22 [200/800 (25.0%)]	Loss: 0.0145
+Train Epoch: 22 [400/800 (50.0%)]	Loss: 0.0221
+Train Epoch: 22 [600/800 (75.0%)]	Loss: 0.0066
+Train Epoch: 22 [800/800 (100.0%)]	Loss: 0.0225
+Done epoch #22, time for this epoch: 324.65092873573303s
+Start epoch #23, learning rate for this epoch: [3.1104e-05]
+Train Epoch: 23 [200/800 (25.0%)]	Loss: 0.0155
+Train Epoch: 23 [400/800 (50.0%)]	Loss: 0.0123
+Train Epoch: 23 [600/800 (75.0%)]	Loss: 0.0408
+Train Epoch: 23 [800/800 (100.0%)]	Loss: 0.0099
+Done epoch #23, time for this epoch: 324.4173197746277s
+Start epoch #24, learning rate for this epoch: [3.1104e-05]
+Train Epoch: 24 [200/800 (25.0%)]	Loss: 0.0183
+Train Epoch: 24 [400/800 (50.0%)]	Loss: 0.0084
+Train Epoch: 24 [600/800 (75.0%)]	Loss: 0.0066
+Train Epoch: 24 [800/800 (100.0%)]	Loss: 0.0125
+Done epoch #24, time for this epoch: 326.94096636772156s
+Start epoch #25, learning rate for this epoch: [1.86624e-05]
+Train Epoch: 25 [200/800 (25.0%)]	Loss: 0.0196
+Train Epoch: 25 [400/800 (50.0%)]	Loss: 0.0212
+Train Epoch: 25 [600/800 (75.0%)]	Loss: 0.0176
+Train Epoch: 25 [800/800 (100.0%)]	Loss: 0.0691
+Done epoch #25, time for this epoch: 326.59770679473877s
+Start epoch #26, learning rate for this epoch: [1.86624e-05]
+Train Epoch: 26 [200/800 (25.0%)]	Loss: 0.0252
+Train Epoch: 26 [400/800 (50.0%)]	Loss: 0.0200
+Train Epoch: 26 [600/800 (75.0%)]	Loss: 0.0146
+Train Epoch: 26 [800/800 (100.0%)]	Loss: 0.0155
+Done epoch #26, time for this epoch: 327.30752086639404s
+Start epoch #27, learning rate for this epoch: [1.86624e-05]
+Train Epoch: 27 [200/800 (25.0%)]	Loss: 0.0058
+Train Epoch: 27 [400/800 (50.0%)]	Loss: 0.0255
+Train Epoch: 27 [600/800 (75.0%)]	Loss: 0.0112
+Train Epoch: 27 [800/800 (100.0%)]	Loss: 0.0088
+Done epoch #27, time for this epoch: 327.971720457077s
+Start epoch #28, learning rate for this epoch: [1.86624e-05]
+Train Epoch: 28 [200/800 (25.0%)]	Loss: 0.0094
+Train Epoch: 28 [400/800 (50.0%)]	Loss: 0.0302
+Train Epoch: 28 [600/800 (75.0%)]	Loss: 0.0091
+Train Epoch: 28 [800/800 (100.0%)]	Loss: 0.0088
+Done epoch #28, time for this epoch: 326.59240102767944s
+Start epoch #29, learning rate for this epoch: [1.119744e-05]
+Train Epoch: 29 [200/800 (25.0%)]	Loss: 0.0113
+Train Epoch: 29 [400/800 (50.0%)]	Loss: 0.0184
+Train Epoch: 29 [600/800 (75.0%)]	Loss: 0.0762
+Train Epoch: 29 [800/800 (100.0%)]	Loss: 0.0093
+Done epoch #29, time for this epoch: 327.4206199645996s
+Start epoch #30, learning rate for this epoch: [1.119744e-05]
+Train Epoch: 30 [200/800 (25.0%)]	Loss: 0.0055
+Train Epoch: 30 [400/800 (50.0%)]	Loss: 0.0057
+Train Epoch: 30 [600/800 (75.0%)]	Loss: 0.0224
+Train Epoch: 30 [800/800 (100.0%)]	Loss: 0.0230
+Done epoch #30, time for this epoch: 326.0080518722534s
+Start epoch #31, learning rate for this epoch: [1.119744e-05]
+Train Epoch: 31 [200/800 (25.0%)]	Loss: 0.0126
+Train Epoch: 31 [400/800 (50.0%)]	Loss: 0.0092
+Train Epoch: 31 [600/800 (75.0%)]	Loss: 0.0077
+Train Epoch: 31 [800/800 (100.0%)]	Loss: 0.0140
+Done epoch #31, time for this epoch: 326.2853739261627s
+Start epoch #32, learning rate for this epoch: [1.119744e-05]
+Train Epoch: 32 [200/800 (25.0%)]	Loss: 0.0132
+Train Epoch: 32 [400/800 (50.0%)]	Loss: 0.0087
+Train Epoch: 32 [600/800 (75.0%)]	Loss: 0.0093
+Train Epoch: 32 [800/800 (100.0%)]	Loss: 0.0717
+Done epoch #32, time for this epoch: 325.4062240123749s
+/kaggle/working/predicted_masks/8b8ec74baddc22268d4b4ef4d95ceea1.png
+/kaggle/working/predicted_masks/dd094a7f32574d6c748c41743c6c08a1.png
+/kaggle/working/predicted_masks/3657e4314fe384eb2ba3adfda6c1899f.png
+/kaggle/working/predicted_masks/e9082ea2c193ac8d551c149b60f29653.png
+/kaggle/working/predicted_masks/fcd6da15fc656702fa602bb3c7abacdb.png
+/kaggle/working/predicted_masks/15fc656702fa602bb3c7abacdbd7e6af.png
+/kaggle/working/predicted_masks/4ef4d95ceea11957998906d3694abb47.png
+/kaggle/working/predicted_masks/936de314f2d95e6c487ffa651b477422.png
+/kaggle/working/predicted_masks/df8e26031fbb5e52c41545ba55aadaa7.png
+/kaggle/working/predicted_masks/782707d7c359e27888daefee82519763.png
+/kaggle/working/predicted_masks/1db239dda50f954ba59c7de13a35276a.png
+/kaggle/working/predicted_masks/f8e26031fbb5e52c41545ba55aadaa77.png
+/kaggle/working/predicted_masks/88e16d4ca6160127cd1d5ff99c267599.png
+/kaggle/working/predicted_masks/4e2a6e51d077bad31c8c5f54ffaa27a6.png
+/kaggle/working/predicted_masks/7af2ed9fbb63b28163a745959c039830.png
+/kaggle/working/predicted_masks/66e057db382b8564872a27301a654864.png
+/kaggle/working/predicted_masks/4417fda8019410b1fcf0625f608b4ce9.png
+/kaggle/working/predicted_masks/80c643782707d7c359e27888daefee82.png
+/kaggle/working/predicted_masks/f14e1e0ae936de314f2d95e6c487ffa6.png
+/kaggle/working/predicted_masks/7f32574d6c748c41743c6c08a1d1ad8f.png
+/kaggle/working/predicted_masks/559c7e610b1531871f2fd85a04faeeb2.png
+/kaggle/working/predicted_masks/6240619ebebe9e9c9d00a4262b4fe4a5.png
+/kaggle/working/predicted_masks/af35b65bd9ea42cfcfedb5eb2a0e4b50.png
+/kaggle/working/predicted_masks/45b21960c94b0aab4c024a573c692195.png
+/kaggle/working/predicted_masks/e8bfb905b78a91391adc0bb223c4eaf3.png
+/kaggle/working/predicted_masks/ff05dec1eb3a70b145a7d8d3b6c0ed75.png
+/kaggle/working/predicted_masks/7f0019f7e6af7d7147763bdfb928d788.png
+/kaggle/working/predicted_masks/8eb5a9a8a8d7fcc9df8e5ad89d284483.png
+/kaggle/working/predicted_masks/fe1f119f21b248d152b672ab3492fc62.png
+/kaggle/working/predicted_masks/3bbc04a3afe1f119f21b248d152b672a.png
+/kaggle/working/predicted_masks/318ecf467d7ad048df39beb176363408.png
+/kaggle/working/predicted_masks/be86f03d900fd197cd955fa095f97845.png
+/kaggle/working/predicted_masks/e5e8f14e1e0ae936de314f2d95e6c487.png
+/kaggle/working/predicted_masks/d694539ef2424a9218697283baa3657e.png
+/kaggle/working/predicted_masks/97e1c0e9082ea2c193ac8d551c149b60.png
+/kaggle/working/predicted_masks/ca4d5060a633a8d5b2b2b55157b7781e.png
+/kaggle/working/predicted_masks/30c2f4fc276ed9f178dc2f4af6266509.png
+/kaggle/working/predicted_masks/8954bb13d3727c7e5e1069646f2f0bb8.png
+/kaggle/working/predicted_masks/02fa602bb3c7abacdbd7e6afd56ea7bc.png
+/kaggle/working/predicted_masks/a6a4248a41e8db8b4ed633b456aaafac.png
+/kaggle/working/predicted_masks/3c692195f853af7f8a4df1ec859759b7.png
+/kaggle/working/predicted_masks/5664c1711b62f15ec83b97bb11e8e0c4.png
+/kaggle/working/predicted_masks/0a0317371a966bf4b3466463a3c64db1.png
+/kaggle/working/predicted_masks/bec33b5e3d68f9d4c331587f9b9d49e2.png
+/kaggle/working/predicted_masks/7330398846f67b5df7cdf3f33c3ca4d5.png
+/kaggle/working/predicted_masks/4f437f0019f7e6af7d7147763bdfb928.png
+/kaggle/working/predicted_masks/82ea2c193ac8d551c149b60f2965341c.png
+/kaggle/working/predicted_masks/cb2eb1ef57af2ed9fbb63b28163a7459.png
+/kaggle/working/predicted_masks/5e8f14e1e0ae936de314f2d95e6c487f.png
+/kaggle/working/predicted_masks/26679bff55177a34fc01019eec999fd8.png
+/kaggle/working/predicted_masks/7cb2eb1ef57af2ed9fbb63b28163a745.png
+/kaggle/working/predicted_masks/e3c84417fda8019410b1fcf0625f608b.png
+/kaggle/working/predicted_masks/633a8d5b2b2b55157b7781e2c706c75c.png
+/kaggle/working/predicted_masks/8cbdf366e057db382b8564872a27301a.png
+/kaggle/working/predicted_masks/343f27ebc5d92b9076135d76d0bbd4ce.png
+/kaggle/working/predicted_masks/cf6644589e532a9ee954f81faedbce39.png
+/kaggle/working/predicted_masks/780fd497e1c0e9082ea2c193ac8d551c.png
+/kaggle/working/predicted_masks/9632a3c6f7f7fb2a643f15bd0249ddcc.png
+/kaggle/working/predicted_masks/9c7976c1182df0de51d32128c358d1fd.png
+/kaggle/working/predicted_masks/314fe384eb2ba3adfda6c1899fdc9837.png
+/kaggle/working/predicted_masks/f8e5ad89d2844837f2a0f1536ad3f6a5.png
+/kaggle/working/predicted_masks/7936140a2d5fc1443c4e445927738677.png
+/kaggle/working/predicted_masks/425b976973f13dd311a65d2b46d0a608.png
+/kaggle/working/predicted_masks/d6240619ebebe9e9c9d00a4262b4fe4a.png
+/kaggle/working/predicted_masks/6b83ef461c2a337948a41964c1d4f50a.png
+/kaggle/working/predicted_masks/0a5f3601ad4f13ccf1f4b331a412fc44.png
+/kaggle/working/predicted_masks/6ddca6ee1af35b65bd9ea42cfcfedb5e.png
+/kaggle/working/predicted_masks/b21960c94b0aab4c024a573c692195f8.png
+/kaggle/working/predicted_masks/9fc7330398846f67b5df7cdf3f33c3ca.png
+/kaggle/working/predicted_masks/a51625559c7e610b1531871f2fd85a04.png
+/kaggle/working/predicted_masks/fdbc3bbc04a3afe1f119f21b248d152b.png
+/kaggle/working/predicted_masks/f7fdb2d45b21960c94b0aab4c024a573.png
+/kaggle/working/predicted_masks/cdf3f33c3ca4d5060a633a8d5b2b2b55.png
+/kaggle/working/predicted_masks/cf464aa36bf7c09a3bb0e5ca159410b9.png
+/kaggle/working/predicted_masks/68d4b4ef4d95ceea11957998906d3694.png
+/kaggle/working/predicted_masks/50534bca540e24f489284b8e6953ad88.png
+/kaggle/working/predicted_masks/6d3694abb47953b0e4909384b57bb6a0.png
+/kaggle/working/predicted_masks/626650908b1cb932a767bf5487ced51b.png
+/kaggle/working/predicted_masks/85a04faeeb2b535797395305af926a6f.png
+/kaggle/working/predicted_masks/a6a4248a41e8db8b4ed633b456aaafac.png
+/kaggle/working/predicted_masks/a6d9ba9d45c3dbc695325ded465efde9.png
+/kaggle/working/predicted_masks/998906d3694abb47953b0e4909384b57.png
+/kaggle/working/predicted_masks/ea42b4eebc9e5a87e443434ac60af150.png
+/kaggle/working/predicted_masks/3c84417fda8019410b1fcf0625f608b4.png
+/kaggle/working/predicted_masks/4baddc22268d4b4ef4d95ceea1195799.png
+/kaggle/working/predicted_masks/8395e56a6d9ba9d45c3dbc695325ded4.png
+/kaggle/working/predicted_masks/60a633a8d5b2b2b55157b7781e2c706c.png
+/kaggle/working/predicted_masks/e4a17af18f72c8e6166a915669c99390.png
+/kaggle/working/predicted_masks/4fda8daadc8dd23ae214d84b5dec33fd.png
+/kaggle/working/predicted_masks/677a6b1f2c6d40b3bbba8f6c704801b3.png
+/kaggle/working/predicted_masks/05734fbeedd0f9da760db74a29abdb04.png
+/kaggle/working/predicted_masks/2a365b5574868eb60861ee1ff0b8a4f6.png
+/kaggle/working/predicted_masks/2d9e593b6be1ac29adbe86f03d900fd1.png
+/kaggle/working/predicted_masks/3c3ca4d5060a633a8d5b2b2b55157b77.png
+/kaggle/working/predicted_masks/3dd311a65d2b46d0a6085835c525af63.png
+/kaggle/working/predicted_masks/63b8318ecf467d7ad048df39beb17636.png
+/kaggle/working/predicted_masks/4c1711b62f15ec83b97bb11e8e0c4416.png
+/kaggle/working/predicted_masks/87133b51209db6dcdda5cc8a788edaeb.png
+/kaggle/working/predicted_masks/77e004e8bfb905b78a91391adc0bb223.png
+/kaggle/working/predicted_masks/5a51625559c7e610b1531871f2fd85a0.png
+/kaggle/working/predicted_masks/3425b976973f13dd311a65d2b46d0a60.png
+/kaggle/working/predicted_masks/0af3feff05dec1eb3a70b145a7d8d3b6.png
+/kaggle/working/predicted_masks/05b78a91391adc0bb223c4eaf3372eae.png
+/kaggle/working/predicted_masks/41ed86e58224cb76a67d4dcf9596154e.png
+/kaggle/working/predicted_masks/e7998934d417cb2eb1ef57af2ed9fbb6.png
+/kaggle/working/predicted_masks/aafac813fe3ccba3e032dd2948a80c64.png
+/kaggle/working/predicted_masks/cb1b387133b51209db6dcdda5cc8a788.png
+/kaggle/working/predicted_masks/a3657e4314fe384eb2ba3adfda6c1899.png
+/kaggle/working/predicted_masks/2ed9fbb63b28163a745959c03983064a.png
+/kaggle/working/predicted_masks/2cd066b9fdbc3bbc04a3afe1f119f21b.png
+/kaggle/working/predicted_masks/7cdf3f33c3ca4d5060a633a8d5b2b2b5.png
+/kaggle/working/predicted_masks/a48847ae8395e56a6d9ba9d45c3dbc69.png
+/kaggle/working/predicted_masks/7fda8019410b1fcf0625f608b4ce9762.png
+/kaggle/working/predicted_masks/6ad1468996b4a9ce6d840b53a6558038.png
+/kaggle/working/predicted_masks/c41545ba55aadaa77712a48e11d579d9.png
+/kaggle/working/predicted_masks/1531871f2fd85a04faeeb2b535797395.png
+/kaggle/working/predicted_masks/d3694abb47953b0e4909384b57bb6a05.png
+/kaggle/working/predicted_masks/0fca6a4248a41e8db8b4ed633b456aaa.png
+/kaggle/working/predicted_masks/268d4b4ef4d95ceea11957998906d369.png
+/kaggle/working/predicted_masks/1ad4f13ccf1f4b331a412fc44655fb51.png
+/kaggle/working/predicted_masks/5b21960c94b0aab4c024a573c692195f.png
+/kaggle/working/predicted_masks/60b246359c68c836f843dcf41f4dce3c.png
+/kaggle/working/predicted_masks/c22268d4b4ef4d95ceea11957998906d.png
+/kaggle/working/predicted_masks/f13dd311a65d2b46d0a6085835c525af.png
+/kaggle/working/predicted_masks/6231002ec4a1fe748f3085f1ce88cbdf.png
+/kaggle/working/predicted_masks/5026b3550534bca540e24f489284b8e6.png
+/kaggle/working/predicted_masks/d6bf62f215f0da4ad3a7ab8df9da7386.png
+/kaggle/working/predicted_masks/39dda50f954ba59c7de13a35276a4764.png
+/kaggle/working/predicted_masks/8fa8625605da2023387fd56c04414eaa.png
+/kaggle/working/predicted_masks/f62f215f0da4ad3a7ab8df9da7386835.png
+/kaggle/working/predicted_masks/eb1ef57af2ed9fbb63b28163a745959c.png
+/kaggle/working/predicted_masks/c695325ded465efde988dfb96d081533.png
+/kaggle/working/predicted_masks/c5a0808bee60b246359c68c836f843dc.png
+/kaggle/working/predicted_masks/5beb48f0be11d0309d1dff09b8405734.png
+/kaggle/working/predicted_masks/a15fc656702fa602bb3c7abacdbd7e6a.png
+/kaggle/working/predicted_masks/1b62f15ec83b97bb11e8e0c4416c1931.png
+/kaggle/working/predicted_masks/dc70626ab4ec3d46e602b296cc5cfd26.png
+/kaggle/working/predicted_masks/db5eb2a0e4b50889d874c68c030b9afe.png
+/kaggle/working/predicted_masks/27738677a6b1f2c6d40b3bbba8f6c704.png
+/kaggle/working/predicted_masks/afe1f119f21b248d152b672ab3492fc6.png
+/kaggle/working/predicted_masks/df366e057db382b8564872a27301a654.png
+/kaggle/working/predicted_masks/6f4d4987ea3b4bae5672a230194c5a08.png
+/kaggle/working/predicted_masks/eecd70ebce6347c491b37c8c2e5a64a8.png
+/kaggle/working/predicted_masks/d5060a633a8d5b2b2b55157b7781e2c7.png
+/kaggle/working/predicted_masks/67d4dcf9596154efb7cef748d9cbd617.png
+/kaggle/working/predicted_masks/eff05dec1eb3a70b145a7d8d3b6c0ed7.png
+/kaggle/working/predicted_masks/80cae6daedd989517cb8041ed86e5822.png
+/kaggle/working/predicted_masks/e1e0ae936de314f2d95e6c487ffa651b.png
+/kaggle/working/predicted_masks/d077bad31c8c5f54ffaa27a623511c38.png
+/kaggle/working/predicted_masks/cc5cfd263f1f90be28799235026b3550.png
+/kaggle/working/predicted_masks/6f67b5df7cdf3f33c3ca4d5060a633a8.png
+/kaggle/working/predicted_masks/e19769fa2d37d32780fd497e1c0e9082.png
+/kaggle/working/predicted_masks/0619ebebe9e9c9d00a4262b4fe4a5a95.png
+/kaggle/working/predicted_masks/a6e51d077bad31c8c5f54ffaa27a6235.png
+/kaggle/working/predicted_masks/4ca6160127cd1d5ff99c267599fc487b.png
+/kaggle/working/predicted_masks/13dd311a65d2b46d0a6085835c525af6.png
+/kaggle/working/predicted_masks/7b5df7cdf3f33c3ca4d5060a633a8d5b.png
+/kaggle/working/predicted_masks/1002ec4a1fe748f3085f1ce88cbdf366.png
+/kaggle/working/predicted_masks/391adc0bb223c4eaf3372eae567c94ea.png
+/kaggle/working/predicted_masks/dd78294679c9cbb2a365b5574868eb60.png
+/kaggle/working/predicted_masks/54ba59c7de13a35276a476420655433a.png
+/kaggle/working/predicted_masks/0398846f67b5df7cdf3f33c3ca4d5060.png
+/kaggle/working/predicted_masks/5c1346e62522325c1b9c4fc9cbe1eca1.png
+/kaggle/working/predicted_masks/625559c7e610b1531871f2fd85a04fae.png
+/kaggle/working/predicted_masks/e56a6d9ba9d45c3dbc695325ded465ef.png
+/kaggle/working/predicted_masks/7ad1cf2eb9d32a3dc907950289e976c7.png
+/kaggle/working/predicted_masks/fb905b78a91391adc0bb223c4eaf3372.png
+/kaggle/working/predicted_masks/4e8bfb905b78a91391adc0bb223c4eaf.png
+/kaggle/working/predicted_masks/3f33c3ca4d5060a633a8d5b2b2b55157.png
+/kaggle/working/predicted_masks/3b8318ecf467d7ad048df39beb176363.png
+/kaggle/working/predicted_masks/dc0bb223c4eaf3372eae567c94ea04c6.png
+/kaggle/working/predicted_masks/1c0e9082ea2c193ac8d551c149b60f29.png
+/kaggle/working/predicted_masks/ad43fe2cd066b9fdbc3bbc04a3afe1f1.png
+/kaggle/working/predicted_masks/285e26c90e1797c77826f9a7021bab9f.png
+/kaggle/working/predicted_masks/98da48d679d7c7c8d3d96fb2b87fbbcf.png
+/kaggle/working/predicted_masks/692195f853af7f8a4df1ec859759b7c8.png
+/kaggle/working/predicted_masks/c7e610b1531871f2fd85a04faeeb2b53.png
+/kaggle/working/predicted_masks/71f2fd85a04faeeb2b535797395305af.png
+/kaggle/working/predicted_masks/6679bff55177a34fc01019eec999fd84.png
+/kaggle/working/predicted_masks/be4d18d5401f659532897255ce2dd4ae.png
+/kaggle/working/predicted_masks/1209db6dcdda5cc8a788edaeb6aa460a.png
+/kaggle/working/predicted_masks/461c2a337948a41964c1d4f50a5f3601.png
+/kaggle/working/predicted_masks/aeeb2b535797395305af926a6f23c5d6.png
+/kaggle/working/predicted_masks/c4be73749a0d21db70dd094a7f32574d.png
+/kaggle/working/predicted_masks/019410b1fcf0625f608b4ce97629ab55.png
+/kaggle/working/predicted_masks/a9d45c3dbc695325ded465efde988dfb.png
+/kaggle/working/predicted_masks/e1797c77826f9a7021bab9fc73303988.png
+/kaggle/working/predicted_masks/39d6aad6bb0170a40ed32deef71fbe08.png
+/kaggle/working/predicted_masks/395e56a6d9ba9d45c3dbc695325ded46.png
+/kaggle/working/predicted_masks/c656702fa602bb3c7abacdbd7e6afd56.png
+/kaggle/working/predicted_masks/710d568df17586ad8f3297c819c90895.png
+/kaggle/working/predicted_masks/c193ac8d551c149b60f2965341caf528.png
+/kaggle/working/predicted_masks/94a7f32574d6c748c41743c6c08a1d1a.png
+/kaggle/working/predicted_masks/e73749a0d21db70dd094a7f32574d6c7.png
+/kaggle/working/predicted_masks/ff55177a34fc01019eec999fd84e679b.png
+/kaggle/working/predicted_masks/b70dd094a7f32574d6c748c41743c6c0.png
+/kaggle/working/predicted_masks/faef7fdb2d45b21960c94b0aab4c024a.png
+/kaggle/working/predicted_masks/e2cd066b9fdbc3bbc04a3afe1f119f21.png
+/kaggle/working/predicted_masks/0626ab4ec3d46e602b296cc5cfd263f1.png
+/kaggle/working/predicted_masks/cbb2a365b5574868eb60861ee1ff0b8a.png

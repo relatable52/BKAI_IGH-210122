@@ -1,0 +1,69 @@
+{
+    "os": "Linux-5.15.133+-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2023-11-17T13:01:38.529452",
+    "startedAt": "2023-11-17T13:01:38.251262",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/tmp/tmp8lgbe87x.json",
+        "--HistoryManager.hist_file=:memory:"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "80dfc76bfd49",
+    "username": "root",
+    "executable": "/opt/conda/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2000.208,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2000.208,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2000.208,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2000.208,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2000.208,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 8062.387607574463,
+            "used": 5173.511043548584
+        }
+    },
+    "gpu": "Tesla T4",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "Tesla T4",
+            "memory_total": 15843721216
+        },
+        {
+            "name": "Tesla T4",
+            "memory_total": 15843721216
+        }
+    ],
+    "memory": {
+        "total": 31.357559204101562
+    }
+}
